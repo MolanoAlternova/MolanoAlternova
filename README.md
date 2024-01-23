@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MolanoAlternova
 - 👀 I’m interested in the backend development
-- 🌱 I’m currently learning Java and Golang
+- 🌱 I’m currently learning Java and Cibersecurity
 - 📫 Contact me on https://molxno.vercel.app/
 
 <!---
