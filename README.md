@@ -6,5 +6,3 @@
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MolanoAlternova&show_icons=true&theme=dracula)](https://github.com/MolanoAlternova/github-readme-stats)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MolanoAlternova&theme=dracula)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MolanoAlternova&theme=dracula)](https://github.com/MolanoAlternova/github-readme-stats)
