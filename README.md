@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MolanoSantiago
+- 👋 Hi, I’m @molxno
 - 👀 I’m interested in the backend development and cibersecurity
 - 🌱 I’m currently learning Java with Spring
 - 📫 Contact me on https://molxno.vercel.app/
 
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MolanoAlternova&show_icons=true&theme=dracula)](https://github.com/MolanoAlternova/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MolanoAlternova&theme=dracula)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=MolanoAlternova&theme=dracula&border_radius=10&locale=es&date_format=M%20j%5B%2C%20Y%5D&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
