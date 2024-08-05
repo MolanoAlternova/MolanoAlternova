@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @molxno
 - 👀 I’m interested in the backend development and cibersecurity
-- 🌱 I’m currently learning Java with Spring
+- 🌱 I’m currently learning Typescript in Expo projects.
 - 📫 Contact me on https://molxno.vercel.app/
 
 [![Santiago's GitHub stats](https://github-readme-stats.vercel.app/api?username=MolanoAlternova&show_icons=true&theme=dracula)](https://github.com/MolanoAlternova/github-readme-stats)
